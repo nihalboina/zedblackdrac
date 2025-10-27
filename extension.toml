@@ -1,7 +1,7 @@
-id = "dracula"
-name = "Dracula"
-version = "1.1.0"
+id = "black-vampire"
+name = "Black Vampire (blackvmp)"
+version = "1.0.0"
 schema_version = 1
-authors = ["Ben Hamment <fisix1@gmail.com>"]
-description = "Official Dracula theme for Zed"
-repository = "https://github.com/dracula/zed"
+authors = ["Nihal Boina <nihal@berkeley.edu>"]
+description = "Black Vampire theme for Zed - a dark theme with vibrant purples, pinks, and greens (ported from Armando Romero's VSCode theme)"
+repository = "https://github.com/armando10rafael10/theme-black-vampire"
